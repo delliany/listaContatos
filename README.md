@@ -1,7 +1,13 @@
-# listaContatos
+# Lista de Contatos
 CRUD de contatos de uma pessoa com Spring Boot e Java 8
 
-# Teste no PostMan
+## Teste da Aplicação
+
+Executa pelo Spring Boot e testa as requisições pelo PostMan ou semelhante
+
+Spring application - Run As - Java Application
+
+## Teste no PostMan
 
 #### GET Pessoas
 
