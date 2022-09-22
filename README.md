@@ -7,6 +7,11 @@ Executa pelo Spring Boot e testa as requisições pelo PostMan ou semelhante
 
 Spring application - Run As - Java Application
 
+## Banco de dados H2
+
+![image](https://user-images.githubusercontent.com/7042663/191767845-c86bb2d0-528f-40ae-8070-42bd98879682.png)
+
+
 ## Teste no PostMan
 
 #### GET Pessoas
