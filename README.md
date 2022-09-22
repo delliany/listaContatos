@@ -3,9 +3,14 @@ CRUD de contatos de uma pessoa com Spring Boot e Java 8
 
 ## Teste da Aplicação
 
-Executa pelo Spring Boot e testa as requisições pelo PostMan ou semelhante
+Executa pelo Spring Boot e testa as requisições pelo PostMan ou aplicativo semelhante
 
-Spring application - Run As - Java Application
+No Eclipse - `ListaContatosApplication.java` - Run As - Java Application
+
+No terminal na pasta da aplicação 
+```sh  
+mvn spring-boot:run 
+```
 
 ## Banco de dados H2
 
